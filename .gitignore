@@ -1,5 +1,14 @@
-# Object file
-*.o
 
-# Ada Library Information
-*.ali
+test.md
+**/node_modules
+#ignoring html/css linters
+
+.hintrc
+.stylelintrc.json
+
+#ignoring hint report folder produced by hint
+hint-report/
+
+#ignoring esLint linter files
+
+.eslintrc.json
