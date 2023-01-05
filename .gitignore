@@ -1,6 +1,6 @@
+#ignoring files in node_modules folder if present
+node_modules/
 
-test.md
-**/node_modules
 #ignoring html/css linters
 
 .hintrc
