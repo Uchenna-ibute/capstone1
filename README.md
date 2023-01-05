@@ -196,7 +196,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Uchenna-ibute/capstone1.git/issues).).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -206,7 +206,8 @@ Feel free to check the [issues page](../../issues/).
 
 > Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project, please provide a STAR in 
+[Github project repository](https://github.com/Uchenna-ibute/capstone1.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -216,7 +217,7 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank [Cindy Shin](https://www.behance.net/adagio07) for the webpage design template. The deign can be found on Behance in the below link.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -240,7 +241,5 @@ I would like to thank...
 
 ## 📝 License <a name="license"></a>
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
