@@ -1,4 +1,14 @@
 
 test.md
 **/node_modules
-*.md
+#ignoring html/css linters
+
+.hintrc
+.stylelintrc.json
+
+#ignoring hint report folder produced by hint
+hint-report/
+
+#ignoring esLint linter files
+
+.eslintrc.json
