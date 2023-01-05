@@ -6,6 +6,8 @@
     "stylelint-scss": "^4.3.0"
   },
   "devDependencies": {
+    "eslint": "^8.31.0",
+    "eslint-plugin-react": "^7.31.11",
     "stylelint-config-standard-scss": "^6.1.0"
   }
 }
