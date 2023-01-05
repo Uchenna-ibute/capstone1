@@ -159,44 +159,52 @@ header {
   margin-top: 1%;
   font-size: 0.8em;
 }
-.pass, .description1 {
+
+.pass,
+.description1 {
   display: none;
 }
+
 @media screen and (min-width: 769px) {
   header {
     padding: 0;
     clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
     padding-bottom: 10%;
   }
+
   .head h3 {
     display: none;
   }
+
   .head h1 {
     font-size: 3em;
   }
-  .pass  {
+
+  .pass {
     display: none;
   }
-  .pass {
-    display: block;
-  }
+
   .fast {
-    padding: 5% 5%;
+    padding: 5%;
     border: 1px solid #e4e4e6;
     background: #fff;
     width: auto;
-    font-size: .5em;
+    font-size: 0.5em;
     line-height: 3em;
   }
+
   .description1 {
     display: block;
   }
+
   .logo {
     margin-bottom: 0;
   }
-  .past{
+
+  .past {
     padding: 5% 15%;
   }
+
   .past-img {
     display: flex;
     flex-direction: row;
@@ -204,9 +212,11 @@ header {
     align-items: center;
     gap: 30px;
   }
+
   .sponsors {
     display: none;
   }
+
   .footer {
     display: flex;
     justify-content: space-between;
@@ -215,10 +225,12 @@ header {
     background: #272a31;
     color: #fff;
   }
+
   .footer-image {
     width: 15%;
     object-fit: scale-down;
   }
+
   .info {
     color: #a1a1a3;
   }
