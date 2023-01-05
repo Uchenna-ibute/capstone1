@@ -4,7 +4,7 @@ const member = {
     imgAlt: 'image of Ibute uchenna',
     name: 'Ibute Uchenna',
     occupation: 'Fashion icon and Professor in Law',
-    details: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor cumque expedita obcaecati tempora velit aut ex quo ducimus sapiente exercitationem? ',
+    details: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor cumque expedita obcaecati tempora velit aut ex quo ducimus sapiente exercitationem?',
   },
   two: {
     img: 'img/Fashion-Influences_Hero.webp',
@@ -35,19 +35,17 @@ const member = {
     details: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor cumque expedita obcaecati tempora velit aut ex quo ducimus sapiente exercitationem?',
   },
   six: {
-      img: 'img/Oyin-Adenuga-Emelia-Janes-Green-Nigerian-Independence-Day-Traditional-Bridal-Inspiration-LoveWeddingsNG-feat.png',
-      imgAlt: 'image of Oyin Adenuga',
-      name: 'Oyin-Adenuga',
-      occupation: 'Fashion Designer',
-      details: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor cumque expedita obcaecati tempora velit aut ex quo ducimus sapiente exercitationem',
-    },
-  };
+    img: 'img/Oyin-Adenuga-Emelia-Janes-Green-Nigerian-Independence-Day-Traditional-Bridal-Inspiration-LoveWeddingsNG-feat.png',
+    imgAlt: 'image of Oyin Adenuga',
+    name: 'Oyin-Adenuga',
+    occupation: 'Fashion Designer',
+    details: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor cumque expedita obcaecati tempora velit aut ex quo ducimus sapiente exercitationem',
+  },
+};
   const cardContainer = document.querySelector('.card');
-  
   function createCard(n) {
     const card = document.createElement('div');
     card.classList.add('member-card');
-  
     const ImgContainer = document.createElement('div');
     ImgContainer.classList.add('member-image-container');
     const Img = document.createElement('img');
