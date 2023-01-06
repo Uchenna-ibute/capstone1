@@ -57,12 +57,12 @@ header {
 }
 
 .image {
-  width: 60%;
-  height: 30%;
-  padding: 5% 15%;
-  margin-bottom: 10%;
-  object-fit: contain;
-  border: solid 2px #e4e4e6;
+  width: 40%;
+    height: 30%;
+    padding: 5%;
+    margin-bottom: 10%;
+    object-fit: contain;
+    border: solid 2px #e4e4e6;
 }
 
 .past {
@@ -181,7 +181,7 @@ header {
   }
 
   .pass {
-    display: none;
+    display: block;
   }
 
   .fast {

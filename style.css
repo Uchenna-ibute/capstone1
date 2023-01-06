@@ -423,7 +423,7 @@ footer {
   display: none;
 }
 
-.logo-image {
+.logo-image, .button-whole-program {
   display: none;
 }
 
